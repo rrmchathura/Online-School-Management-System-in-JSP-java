@@ -1,0 +1,7 @@
+1.First create database "springschool". and import database using xampp mysql.
+
+2.open project in netbeans.
+
+3.go to onlineSchoolManagementsystem/Web pages/resource/dispatcher-servlet.xml
+
+4.find localhost and give your password(if dont know: open image,I hightlighted that)in value area.
